@@ -1,6 +1,6 @@
 Bypasss symlink 404
 
-Copyright by Rafly 2020
+Copyright by Rafly 2017
 
 Screeenshot :
 
